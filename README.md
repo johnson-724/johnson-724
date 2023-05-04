@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnson-724&layout=compact)](https://github.com/johnson-724/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnson-724&layout=compact&hide=javascript,html,blade,scss,css)](https://github.com/johnson-724/github-readme-stats)
 <!--
 **johnson-724/johnson-724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
